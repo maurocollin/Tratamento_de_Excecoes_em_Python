@@ -1,4 +1,4 @@
-# 🚀 Projeto: Manipulação de Dados e Tratamento de Exceções
+# 🚀 Exercício: Manipulação de Dados e Tratamento de Exceções
 
 Este repositório contém uma série de scripts desenvolvidos em Python focados no tratamento robusto de erros e manipulação de arquivos, seguindo as diretrizes de desenvolvimento rápido de aplicações.
 
